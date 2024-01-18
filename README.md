@@ -1,8 +1,5 @@
 # Foro de Comentarios
 
-<video width="320" height="240" controls>
-  <source src="/public/foro.mp4" type="video/mp4">
-</video>
-
-
-![](/public/foro.mp4)
+![Alt text](/public/1.png)
+![Alt text](/public/2.png)
+![Alt text](/public/3.png)
